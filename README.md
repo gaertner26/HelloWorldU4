@@ -1,2 +1,8 @@
 # HelloWorldU4
-Hello World Programm für die Aufgabe A im Übungsblatt 3 des Kurses Wissenschaftliches Arbeiten WS20/21
+Diese Anwendung bietet die Ausgabe von "Hello World" auf einer Website.
+Vorrausetzungen:  
+- Browser  
+  
+Öffnen der Website:  
+- Öffnen der html Datei (HelloWorld.html) mit dem Browser Ihrer Wahl  
+
